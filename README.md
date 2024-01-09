@@ -18,17 +18,4 @@ Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 
 ![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
 
-1. 標題1
-   - 標題2
-     - 標題3
-     - 標題3
-     - 標題3
-2. 標題4
-   - 標題5
-     - 標題6
-
-- [x] 任務標題1
-- [ ] 任務標題2
-- [ ] 任務標題3
-
 :+1::+1::+1::+1::+1::+1:
