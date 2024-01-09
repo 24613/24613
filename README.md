@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)
-    ffffffffffffff
+Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
+dddd
