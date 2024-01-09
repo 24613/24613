@@ -22,8 +22,10 @@ Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 
 ```mermaid
 graph TD;
-    Agggg-->B;
-    Agggg-->C;
-    B-->D;
-    C-->D;
+    項目1-->項目2;
+    項目1-->項目3;
+    項目1-->項目4;
+    項目3-->項目4;
+    項目5-->項目3;
+    項目6-->項目7;
 ```
