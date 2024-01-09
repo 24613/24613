@@ -30,3 +30,5 @@ Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 - [x] 任務標題1
 - [ ] 任務標題2
 - [ ] 任務標題3
+
+:+1::+1::+1::+1::+1::+1:
