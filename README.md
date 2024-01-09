@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 
 
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
-
-</details>
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
