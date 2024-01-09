@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+| 項目標題1      |標題2 |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
