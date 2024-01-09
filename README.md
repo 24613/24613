@@ -20,3 +20,4 @@ Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 `rgb(9, 105, 218)`
 `#ffffff`
 `#000000`
+`hsl(212, 92%, 45%)`
