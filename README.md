@@ -19,3 +19,11 @@ Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 ![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
 
 :+1::+1::+1::+1::+1::+1:
+
+```mermaid
+graph TD;
+    Agggg-->B;
+    Agggg-->C;
+    B-->D;
+    C-->D;
+```
