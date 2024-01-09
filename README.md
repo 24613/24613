@@ -1,4 +1,4 @@
-### Hi there 👋
+### 幹什麼吃的 👋
 
 <!--
 **24613/24613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-这是一段普通的文本，  
-直接回车不能换行，<br>  
-要使用\<br>
