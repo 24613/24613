@@ -18,6 +18,12 @@ Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 
 ![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
 
-1. James Madison
-1. James Monroe
-2. John Quincy Adams
+1. 項目名稱1
+1. 項目名稱2
+2. 項目名稱3
+5. 項目名稱4
+1. 項目名稱5
+4. 項目名稱6
+1. 項目名稱7
+6. 項目名稱8
+1. 項目名稱9
