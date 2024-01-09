@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
 
-![hehe]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cartoonbrew.com%2Finterviews%2Fthe-amazing-digital-circus-creator-gooseworx-on-developing-the-internets-hottest-animated-pilot-234217.html&psig=AOvVaw2KYGjlxG1APCrZM-mLSqxr&ust=1704919938202000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDoheqX0YMDFQAAAAAdAAAAABAD](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
+![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
