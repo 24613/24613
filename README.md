@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Independent Study：[YOLOv8](https://github.com/24613/YOLOv8)<br>
+[x]Independent Study
 
 ![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
 
