@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 - [x] Independent Study-[Clam image recognition](https://github.com/24613/Clam-image-recognition)
 
-![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
+![414676470_722160210007361_9195605869242570177_n](https://github.com/24613/24613/assets/155034117/084682a1-60bd-4a15-8704-391cae41b7e8)
+
 
 :+1::+1::+1::+1::+1::+1:
 
