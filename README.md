@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [x] Independent Study
+- [x] Independent Study-Clam image recognition
 
 ![hehe](https://www.cartoonbrew.com/wp-content/uploads/2023/10/amazing_digital_circus.jpg)
 
