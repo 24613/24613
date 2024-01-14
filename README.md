@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [x] Independent Study-[Clam image recognition](https://github.com/24613/Clam-image-recognition)
+- [x] Independent Study-[Clam image recognition using YOLOv8](https://github.com/24613/Clam-image-recognition)
 
 ![414676470_722160210007361_9195605869242570177_n](https://github.com/24613/24613/assets/155034117/f9c7e4dd-4b49-4c3d-b29a-5790b70941a6)
 
